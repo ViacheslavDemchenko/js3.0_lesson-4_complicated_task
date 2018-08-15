@@ -51,10 +51,6 @@ function sumArr(arr){//Функция нахождения суммы масси
 	return sum;
 };
 
-
-
-
- 
  
 
 
